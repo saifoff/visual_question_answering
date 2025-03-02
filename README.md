@@ -1,5 +1,5 @@
 # visual_question_answering
-
+![outcome](vqa.png)
 ## Dataset
 
 The dataset used in this project can be downloaded from [Kaggle](https://www.kaggle.com/datasets/tezansahu/processed-daquar-dataset/data).
